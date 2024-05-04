@@ -6,6 +6,11 @@
  [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://tketusers.slack.com/join/shared_invite/zt-18qmsamj9-UqQFVdkRzxnXCcKtcarLRA#)
 
 
+## FIRST: give us your email
+
+-> Fill in [this form](https://forms.office.com/r/MGCB3bTxEm). As soon as we have your email address we will send you an invitation to join the Nexus cloud environment.
+
+
 ## When you are ready to begin
 
 * One member of the team should fork this repository and share the URL with team members. 
